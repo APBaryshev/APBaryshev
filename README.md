@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own internet-projects<br>🤝 I’m looking to collaborate on testing and development web & mob app<br>🌱 I’m currently learning aqa & dev
+I’m looking to collaborate on testing and development web & mob app<br>🌱 I’m currently learning aqa & dev
 
 
 ## 🌐 Socials:
