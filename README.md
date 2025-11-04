@@ -1,5 +1,5 @@
 # Привет! 👋 
-Я Андрей Барышев - AQA-инженер | Пресейл-инженер
+Я Андрей Барышев, AQA-инженер | Пресейл-инженер
 
 ## 💫 Что я умею
 - **Тестирую** веб-приложения
@@ -39,5 +39,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=APBaryshev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=APBaryshev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-*Заходил(а) ко мне уже [![](https://visitcount.itsvg.in/api?id=APBaryshev&icon=0&color=0)](https://visitcount.itsvg.in) раз*
